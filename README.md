@@ -1,5 +1,9 @@
 # chartsjs
-
+### Lybrary implementation on a toy app
+ *Todo*
+- Add a API and axios call
+- css 
+-router? 
 ## Project setup
 ```
 yarn install
