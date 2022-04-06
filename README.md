@@ -1,5 +1,5 @@
 # chartsjs
-### Lybrary implementation on a toy app
+### Library implementation on a toy app
  *Todo*
 - Add a API and axios call
 - css 
@@ -26,3 +26,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+[library](https://vue-chartjs.org/)
