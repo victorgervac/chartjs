@@ -3,7 +3,7 @@
  *Todo*
 - Add a API and axios call
 - css 
--router? 
+- router? 
 ## Project setup
 ```
 yarn install
